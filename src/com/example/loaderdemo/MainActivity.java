@@ -13,6 +13,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+/**
+ * person blog: http://zeng1990java.github.io/2013/12/23/loaders/#more
+ */
 public class MainActivity extends FragmentActivity implements LoaderManager.LoaderCallbacks<User>{
 
 	private static final String TAG = "LoaderDemo";
